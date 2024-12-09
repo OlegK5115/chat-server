@@ -1,0 +1,11 @@
+{
+	"port" : 9000,
+	"db_dialect" : "postgres",
+	"postgres" : {
+		"host" : "localhost",
+		"port" : 5432,
+		"username" : "postgres",
+		"password" : "1234",
+		"database" : "postgres"
+	}
+}
